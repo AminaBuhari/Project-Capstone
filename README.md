@@ -16,7 +16,7 @@ Original design idea by Cindy Shin in Behance: [Link](https://www.behance.net/ad
 
 # Live demo
 
-[Live demo](https://aminabuhari.github.io/Capstone-Project-/)
+[Live demo](https://aminabuhari.github.io/Project-Capstone/)
 
 ## Authors
 

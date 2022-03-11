@@ -30,6 +30,8 @@ body {
 .menu {
   width: 30px;
   margin-top: 10px;
+  margin-left: -40px;
+  
 }
 
 .button-menu {
@@ -43,9 +45,11 @@ body {
 }
 
 .menu-close {
-  width: 39%;
+  width: 50%;
   display: none;
-  margin-top: 12px;
+  margin-top: 5px;
+  background-color: #ec5242;
+  border: 3px solid orangered;
 }
 
 .close-menu-active {
@@ -60,7 +64,7 @@ body {
   right: 0;
   bottom: 0;
   z-index: 99;
-  background: lightgrey;
+  background: rgba(149, 140, 140, 0.938);
   color: white;
   list-style: none;
   margin-top: 0;
@@ -217,7 +221,7 @@ h4 {
 
 .speaker-image {
   width: 25%;
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 .speaker-card {
@@ -229,8 +233,10 @@ h4 {
 .speaker-description {
   width: 65%;
   margin-left: 20px;
-  margin-top: 10%;
+  margin-top: 11%;
+  gap: 11px;
 }
+
 
 h5 {
   font-family: var(--lato);
@@ -405,7 +411,7 @@ footer {
   .desktop-card {
     display: flex;
     flex-wrap: wrap;
-    margin: 50px 10px 0 10px;
+    margin: 50px 100px 0 100px;
     justify-content: center;
   }
 
@@ -469,6 +475,7 @@ footer {
     width: 50%;
     display: flex;
     flex-direction: column;
+    gap: 2px; 
   }
 
   .speaker-image {
@@ -524,7 +531,7 @@ footer {
 
   footer {
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 50px;
   }
 }

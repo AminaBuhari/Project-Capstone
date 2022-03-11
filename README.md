@@ -14,6 +14,10 @@ Original design idea by Cindy Shin in Behance: [Link](https://www.behance.net/ad
 
 - Html, Css and Javascript
 
+## Video Description
+
+[Loom Video](https://www.loom.com/share/874e66bdd4e14bcba78aed5e9eea9488/)
+
 # Live demo
 
 [Live demo](https://aminabuhari.github.io/Project-Capstone/)

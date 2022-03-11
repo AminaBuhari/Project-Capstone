@@ -12,7 +12,6 @@
   box-sizing: border-box;
 }
 
-
 .menu {
   width: 30px;
   margin-top: 20px;
@@ -21,7 +20,7 @@
 .button-menu {
   display: block;
   float: left;
-  width: 70px; 
+  width: 70px;
   position: absolute;
   z-index: 100;
   background: transparent;
@@ -375,7 +374,6 @@ footer {
     height: 25vh;
     margin-bottom: 80px;
     margin-top: 20px;
-    
   }
 
   .img {
